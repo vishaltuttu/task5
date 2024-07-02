@@ -1,0 +1,514 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-brand {
+    font-family: "DM Serif Display", serif;
+    color: #292F36;
+}
+
+.nav-link {
+    font-family: "Jost", sans-serif;
+    color: #141414;
+}
+
+.nav-link:hover {
+    color: #C76904;
+}
+
+#frame {
+    background-image: url(/images/Rectangle\ 1.png);
+    width: 100%;
+    height: 900px;
+    background-size: cover;
+}
+
+.serach {
+    padding-top: 13px;
+    color: #141414;
+}
+
+.make {
+    font-family: "DM Serif Display", serif;
+    margin-top: 85px;
+    font-size: 78px;
+    color: #FFFFFF;
+    line-height: 1.3;
+}
+
+.There {
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    margin-top: -35px;
+    font-size: 28px;
+    line-height: 1.3;
+}
+
+.Get {
+    text-decoration: none;
+    color: #FFFFFF;
+    background-color: #CDA274;
+    border-radius: 18px;
+    padding: 20px 30px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+#project {
+    text-align: center;
+    margin-top: 100px;
+    padding-left: 20px;
+}
+
+.plan {
+    font-family: "DM Serif Display", serif;
+}
+
+.para1 {
+    font-family: "Jost", sans-serif;
+    padding-top: 25px;
+}
+
+.Read {
+    text-decoration: none;
+    color: black;
+    font-family: "Jost", sans-serif;
+    font-weight: bold;
+}
+
+.sub-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.frame2 {
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+#img1 {
+    position: absolute;
+    margin-left: -650px;
+    width: 653px;
+    height: 700px;
+}
+
+#img2 {
+    position: absolute;
+    margin-left: 450px;
+    width: 802.59px;
+    height: 700px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* Top left text */
+.top-left {
+    position: absolute;
+    top: 00px;
+    left: 5%;
+    transform: translateX(-10%);
+}
+
+.art {
+    font-family: "DM Serif Display", serif;
+    font-size: 55px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.para2 {
+    text-align: left;
+    padding-left: 30px;
+    font-family: "Jost", sans-serif;
+    margin-bottom: 20px;
+}
+
+.call-icon {
+    width: 50px;
+    position: absolute;
+    left: 30px;
+}
+
+#calling {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+#nc {
+    padding-left: 90px;
+}
+
+#Free {
+    text-decoration: none;
+    color: #FFFFFF;
+    background-color: #CDA274;
+    border-radius: 18px;
+    padding: 20px 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    position: absolute;
+    left: 5px;
+    font-size: 10px;
+}
+
+#frame3 {
+    position: absolute;
+    margin-top: 2100px;
+}
+
+#inframe3 {
+    padding-top: 50px;
+    background-color: #D8A876;
+    border-radius: 20px;
+}
+
+#inframe3 h2 {
+    font-family: "DM Serif Display", serif;
+}
+
+.natasha {
+    font-family: "DM Serif Display", serif;
+}
+
+.moscow {
+    font-family: "Jost", sans-serif;
+    font-size: 13px;
+}
+
+#frame4 {
+    position: absolute;
+    margin-top: 1400px;
+    font-family: "DM Serif Display", serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+#inframe4 p {
+    text-align: center;
+    padding-top: 10px;
+    font-family: "Jost", sans-serif;
+}
+
+#decor {
+    font-family: "Jost", sans-serif;
+    font-size: 13px;
+}
+
+.inframe5 i {
+    background-color: #D8A876;
+    border-radius: 50%;
+    padding: 15px 15px 15px 15px;
+    text-decoration: none;
+    color: white;
+    margin-top: 2px;
+}
+
+#frame5 {
+    margin-top: 3000px;
+    text-align: center;
+}
+
+.Counter img {
+    padding-left: 200px;
+}
+
+.inframe5:hover i {
+    background-color: #C76904;
+}
+
+#inframe6 h2 {
+    font-family: "DM Serif Display", serif;
+}
+
+#inframe6 p {
+    font-family: "Jost", sans-serif;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.card-body p {
+    font-family: "DM Serif Display", serif;
+}
+
+#date {
+    font-family: "Jost", sans-serif;
+}
+
+#arrow {
+    background-color: #D8A876;
+    border-radius: 50%;
+    padding: 15px 15px 15px 15px;
+    color: white;
+    font-size: 10px;
+}
+
+.card:hover {
+    background-color: #F4F0EC;
+}
+
+#arrow:hover {
+    background-color: #C76904;
+}
+
+.card {
+    box-shadow: 1px 1px 7px 1px;
+}
+
+.fi {
+    background-image: url(/images/Rectangle\ 10.png);
+    width: 100%;
+    height: 430px;
+}
+
+.fi h2 {
+    color: white;
+    font-family: "DM Serif Display", serif;
+}
+
+.fi p {
+    color: white;
+    font-family: "Jost", sans-serif;
+    text-align: center;
+}
+
+.but {
+    background-color: #CDA274;
+    text-decoration: none;
+    color: white;
+    padding: 15px 10px;
+    border-radius: 10px;
+    font-family: "Jost", sans-serif;
+    box-shadow: #292F36 1px 1px 7px 1px;
+}
+
+.but:hover {
+    background-color: #C76904;
+}
+
+.footer-head {
+    text-decoration: none;
+    font-family: "DM Serif Display", serif;
+    color: black;
+    font-size: 20px;
+}
+
+#ft1 a {
+    color: black;
+}
+
+#ft1 a:hover {
+    color: #C76904;
+}
+
+.pages {
+    font-size: 18px;
+    font-family: "DM Serif Display", serif;
+}
+#page a{
+    color: #141414;
+    font-family: "Jost", sans-serif;
+    text-decoration: none;
+}
+#page a:hover {
+    color: #C76904;
+}
+
+
+@media (max-width: 1200px) {
+    #frame {
+        height: 600px;
+    }
+    
+    .make {
+        font-size: 48px;
+    }
+    
+    .There {
+        font-size: 20px;
+    }
+    
+    .Get {
+        padding: 15px 25px;
+    }
+    
+    #img1 {
+        margin-left: -400px;
+        width: 400px;
+        height: 500px;
+    }
+    
+    #img2 {
+        margin-left: 300px;
+        width: 500px;
+        height: 500px;
+    }
+}
+
+@media (max-width: 992px) {
+    .navbar-brand {
+        font-size: 24px;
+    }
+    
+    .nav-link {
+        font-size: 14px;
+    }
+    
+    #frame {
+        height: 500px;
+    }
+    
+    .make {
+        font-size: 36px;
+    }
+    
+    .There {
+        font-size: 18px;
+    }
+    
+    .Get {
+        padding: 10px 20px;
+    }
+    
+    #img1 {
+        margin-left: -300px;
+        width: 300px;
+        height: 400px;
+    }
+    
+    #img2 {
+        margin-left: 200px;
+        width: 400px;
+        height: 400px;
+    }
+}
+
+@media (max-width: 768px) {
+    .sub-content {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .sub-content .col-md-4 {
+        margin-bottom: 30px;
+    }
+    
+    #frame {
+        height: 400px;
+    }
+    
+    .make {
+        font-size: 24px;
+    }
+    
+    .There {
+        font-size: 16px;
+    }
+    
+    .Get {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    
+    #img1 {
+        display: none;
+    }
+    
+    #img2 {
+        display: none;
+    }
+    
+    .frame2 {
+        flex-direction: column;
+    }
+    
+    .top-left {
+        transform: translateX(0);
+        left: 0;
+    }
+    
+    .art {
+        font-size: 36px;
+    }
+    
+    .para2 {
+        font-size: 14px;
+    }
+    
+    #calling {
+        padding-left: 0;
+    }
+    
+    #nc {
+        padding-left: 0;
+    }
+    
+    #Free {
+        padding: 10px 15px;
+    }
+}
+
+@media (max-width: 576px) {
+    .navbar-brand {
+        font-size: 20px;
+    }
+    
+    .nav-link {
+        font-size: 12px;
+    }
+    
+    #frame {
+        height: 300px;
+    }
+    
+    .make {
+        font-size: 18px;
+    }
+    
+    .There {
+        font-size: 14px;
+    }
+    
+    .Get {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+    
+    .frame2 {
+        flex-direction: column;
+    }
+    
+    .top-left {
+        top: 5%;
+        left: 5%;
+    }
+    
+    .art {
+        font-size: 24px;
+    }
+    
+    .para2 {
+        font-size: 12px;
+    }
+    
+    #calling {
+        padding-left: 0;
+    }
+    
+    #nc {
+        padding-left: 0;
+    }
+    
+    #Free {
+        padding: 5px 10px;
+    }
+}
